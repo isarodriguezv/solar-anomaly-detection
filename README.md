@@ -81,7 +81,7 @@ This design decision ensures reliability given the available data.
 ## How to Use
 
 1. Open the notebooks in order:
-   - 01_consolidated_preprocessing
+   - 01_data_preprocessing
    - 02_master_preprocessing
    - 03_feature_engineering
 
