@@ -76,7 +76,18 @@ This design decision ensures reliability given the available data.
 - Real-world data often contains inconsistencies that must be carefully handled  
 - Data integration requires aligning identifiers across multiple sources  
 - Not all problems require machine learning; rule-based systems can be effective when grounded in domain knowledge  
-- Understanding the business and physical context is critical for building meaningful analytics solutions  
+- Understanding the business and physical context is critical for building meaningful analytics solutions
+
+## How to Use
+
+1. Open the notebooks in order:
+   - 01_consolidated_preprocessing
+   - 02_master_preprocessing
+   - 03_feature_engineering
+
+2. Follow the data flow from raw data to feature engineering and alert classification.
+
+Note: Original datasets are not included due to confidentiality. 
 
 ## Technologies Used
 
