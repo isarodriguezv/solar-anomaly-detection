@@ -1,4 +1,5 @@
 # Photovoltaic System Performance Monitoring & Anomaly Detection
+This project simulates a real-world photovoltaic monitoring system used to detect performance anomalies and support maintenance decisions.
 
 ## Overview
 
